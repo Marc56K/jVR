@@ -1,0 +1,5 @@
+<project name="Simply Red">
+  <uniform name="color" type="vec3">
+    1.0 0.0 0.0    
+  </uniform>
+</project>

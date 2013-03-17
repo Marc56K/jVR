@@ -1,0 +1,20 @@
+<project name="Simply Red">
+  <uniform name="ka" type="vec3">
+    0.2 0.0 0.0
+  </uniform>
+  <uniform name="kd" type="vec3">
+    1.0 0.0 0.0
+  </uniform>
+  <uniform name="ks" type="vec3">
+    1.0 1.0 1.0
+  </uniform>
+  <uniform name="ke" type="float">
+    50.0
+  </uniform>
+  <uniform name="lightIntensity" type="vec3">
+    0.8 0.8 0.8
+  </uniform>
+  <uniform name="lightPosV" type="vec3">
+    3.0 2.0 0.0
+  </uniform>
+</project>
