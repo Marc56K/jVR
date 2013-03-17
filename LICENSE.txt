@@ -1,0 +1,8 @@
+The jVR source code is mostly licensed under the Apache 2.0 license.
+
+The "libs" directory contains other licensed material as well:
+
+"libs/jbullet" JBullet is Java port of Bullet Physics Library under ZLIB license.
+"libs/jogl2.0" The JOGL source code is mostly licensed under the New BSD 2-clause license. (see "libs/jogl2.0/LICENSE.txt" for more details)
+"libs/wiiusej" WiiuseJ is free software under the terms of the GNU General Public License. (see "libs/wiiusej/WiiUseJ.TXT" for more details)
+"libs/vrpn" Virtual Reality Peripheral Network has been released to the public domain.
